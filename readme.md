@@ -1,4 +1,6 @@
 # Workshop Guide Management System
+![Main Interface](screenshots/main_interface.png "Main Interface")
+
 
 ## Description
 This project is a comprehensive Workshop Guide Management System designed to help organizers plan, structure, and manage workshop phases and tasks efficiently. It provides an intuitive interface for creating, editing, and deleting workshop phases and associated subtasks.
